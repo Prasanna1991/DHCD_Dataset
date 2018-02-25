@@ -6,7 +6,7 @@ This repository contains the DHCD dataset, a dataset of Devnagari (Nepali) handw
 ![](https://github.com/Prasanna1991/DHCD_Dataset/blob/master/sample/sample.png?raw=true)
 
 DHCD dataset contains 46 classes [36 character class and 10 digit class] (क .. +  १ .. ) of Devnagari language. Each class
-has 2000 images which is divided into two sets: training and test containing 1700 and 300 images respectively. So technically, this dataset is larger both in terms of samples and classes than the famous MNIST dataset which was the initial inspuration for the creation of this dataset. 
+has 2000 images which is divided into two sets: training and test containing 1700 and 300 images respectively. So technically, this dataset is larger both in terms of samples and classes than the famous MNIST dataset which was the initial inspiration for the creation of this dataset. 
 
 This repo contains the dataloader for PyTorch and it can be easily transported to other libraries like TensorFlow, Keras, Caffe etc. 
 
