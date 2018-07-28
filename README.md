@@ -1,6 +1,9 @@
 # DHCD_Dataset
 This repository contains the DHCD dataset, a dataset of Devnagari (Nepali) handwritten characters.
 
+# LPR
+License Plate Recognition (LPR) dataset is also available now at this [link](https://github.com/Prasanna1991/LPR).
+
 ## Description
 
 ![](https://github.com/Prasanna1991/DHCD_Dataset/blob/master/sample/sample.png?raw=true)
