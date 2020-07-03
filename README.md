@@ -16,6 +16,8 @@ This repo contains the dataloader for PyTorch and it can be easily transported t
 Beside, the general character classification task, the dataset can also be explored for other problems like transferring style, disentanglement, semi-supervised learnign etc. as there are lot of variations within each class. 
 
 ## Example
+(Updated) This [work](https://gist.github.com/sndsabin/09b0cb436c94a8ebae0e9906a8d30383) by Sabin Bhatta with the help of ResNet-50 has achieved error rate of 0.67%. 
+
 This [work](https://gist.github.com/suvash/d9fe3aa8d570d42ab65175a057d402a4) by [Suvash Thapaliya](https://twitter.com/suvash) is a recent example of work in this dataset. Resnet-32 is used to obtain the error rate of 1.49% which is the SOTA on this dataset for the task of classification. 
 
 
